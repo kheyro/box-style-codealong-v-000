@@ -163,13 +163,13 @@ header {
 
 #navbar nav a {
   display: inline-block;
-  width: 12.6666667%;
+  width: 16.66%;
   margin: 0;
   padding: 22px 0;
   text-transform: uppercase;
   color: black;
   text-align: center;
-  border-right: 0px solid #ccc;
+  border-right: 1px solid #ccc;
   text-decoration: none;
   font: 1em "Trebuchet MS", Arial, sans-serif;
 }
